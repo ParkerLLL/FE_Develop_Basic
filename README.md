@@ -1,3 +1,5 @@
-# 前端学习
-From 28 Apr 2023
-Here is a readme file
+# Learning Details
+
+## Mission Progress： 12/117
+
+## Expected completion time：1st July 2023
