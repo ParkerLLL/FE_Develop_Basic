@@ -1,5 +1,5 @@
 # Learning Details
 
-## Mission Progress： 12/117
+## Mission Progress： 14/117
 
 ## Expected completion time：1st July 2023
